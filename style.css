@@ -12,6 +12,7 @@ body {
     vertical-align: middle;
     text-align: center;
     font-family: monospace;
+    background: radial-gradient(circle, rgb(26, 60, 99) 55%, rgba(0, 139, 139, 0.3) 100%) fixed;
 }
 
 a {
@@ -31,3 +32,4 @@ img.icon {
 #debt {
     color: darkcyan;
 }
+
