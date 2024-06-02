@@ -1,0 +1,33 @@
+html, body {
+    height: 80%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    font-family: monospace;
+}
+
+a {
+    color: darkcyan;
+    text-decoration: none;
+}
+
+img.icon {
+    height: 1em;
+    transform: translateY(2px);
+}
+
+.lighter {
+    color: grey;
+}
+
+#debt {
+    color: darkcyan;
+}
